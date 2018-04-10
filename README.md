@@ -2,7 +2,7 @@
 
 ## Congratulations on getting to the end of the semester! 
 
-**For your final project**, choose any data analysis project where you can show off your programming and data analysis skills. You are encouraged to analyze your own data to further your research, but you choose anything you like. You can reanalyze published data, obtain data from someone else, or simulate data. 
+**For your final project**, choose any data analysis project where you can show off your programming skills. You are encouraged to analyze your own data to further your research, but you choose anything you like. You can reanalyze published data, obtain data from someone else, or simulate data. 
 
 *Your analysis must be conducted entirely in R*, with appropriate graphics produced. (If you need to do some tasks in other software, that's fine, but only the R portion will count toward your grade). Source code, graphics, and a short write up (very brief intro, analysis/results, brief discussion of interpretation of the data/conclusions) should be turned in. In addition, students should present their analysis in the last week in a brief presentation (10 min max).
 
@@ -22,9 +22,9 @@
  - 1 min conclusions/final thoughts/wrap-up
  
 **Code:**
-Upload your code and any data to this repository. It should run from source and generate all graphics and output files that were included in/support your paper and talk.  
+Your code should demonstrate mastery of programming for data analysis or visualization. An 'A' project will demonstrate substantial effort (consider that your 8 homeworks count for 50% of your grade). Creativity and intellectual effort are always highly prized. 
 
-Please upload your paper to this repository too. 
+**Submission:** Upload your code and any data to this repository. It should run from source and generate all graphics and output files that were included in/support your paper and talk. Please upload your paper to this repository too. 
 
 **Due Dates:**
 Paper and code are due by midnight, May 3rd. 
