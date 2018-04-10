@@ -4,7 +4,7 @@
 
 **For your final project**, choose any data analysis project where you can show off your programming skills. You are encouraged to analyze your own data to further your research, but you choose anything you like. You can reanalyze published data, obtain data from someone else, or simulate data. 
 
-*Your analysis must be conducted entirely in R*, with appropriate graphics produced. (If you need to do some tasks in other software, that's fine, but only the R portion will count toward your grade). Source code, graphics, and a short write up (very brief intro, analysis/results, brief discussion of interpretation of the data/conclusions) should be turned in. In addition, students should present their analysis in the last week in a brief presentation (10 min max).
+*Your analysis must be conducted in R*, with appropriate graphics produced. (If you need to do some tasks in other software, that's fine, but only the R portion will count toward your grade). Source code, graphics, and a short write up (very brief intro, analysis/results, brief discussion of interpretation of the data/conclusions) should be turned in. In addition, students should present their analysis in the last week in a brief presentation (10 min max).
 
 **Grading:** The final project will constitute 25% of your final grade, and will be graded in three parts: the code, a short paper, and an in class presentation, with about half the weight given to the code (so roughly 50%, 25%, 25%). 
 
