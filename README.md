@@ -34,11 +34,11 @@ Talk Schedule:
 April 26 | May 1 | May 3 (POTLUCK!)
 --- | --- | ---
 Bethany | Hoaka | Donna 
-Lev | Scott C | Laura 
+Lizzy | Scott C | Laura 
 Rebecca | Marisa | Anke
 Rodrigo | Scott VdV | Helen
 Tanya | Aka | Kalisi
-Jared | Lizzy | Liat
+Jared | Lev | Liat
 | | | Wesley
 
 Potluck on May 3. [Please sign up here](https://docs.google.com/spreadsheets/d/1vORFx0zH5mD1Ihne6ZQUwHMQ7EElg_MaAdyU6UGdxgs/edit?usp=sharing) 
